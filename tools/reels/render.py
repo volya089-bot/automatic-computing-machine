@@ -34,6 +34,8 @@ THEMES = {
                   mute=(138, 133, 120), line=(217, 210, 195), dim=(170, 164, 150), on=(255, 255, 255)),
     "dark": dict(bg=(17, 19, 24), ink=(240, 238, 232), acc=(255, 196, 61), pos=(74, 222, 128),
                  mute=(150, 156, 168), line=(48, 53, 64), dim=(95, 101, 114), on=(17, 19, 24)),
+    "navy": dict(bg=(13, 22, 41), ink=(236, 241, 250), acc=(52, 211, 153), pos=(96, 165, 250),
+                 mute=(143, 160, 190), line=(36, 50, 80), dim=(88, 106, 140), on=(13, 22, 41)),
 }
 
 FONT_PATHS = ["/usr/share/fonts/opentype/inter/Inter-Bold.otf",
@@ -406,7 +408,7 @@ def render_pin(pin, path):
         p.text((PW // 2, y + 165), label, 36)
         y += 240
     p.text((PW // 2, PH - 150), pin.get("source", ""), 26, "mute")
-    p.text((PW // 2, PH - 80), "Owner's Math  |  full breakdowns on YouTube", 34, "ink")
+    p.text((PW // 2, PH - 80), pin.get("footer", "Owner's Math  |  full breakdowns on YouTube"), 34, "ink")
     img.save(path)
 
 
