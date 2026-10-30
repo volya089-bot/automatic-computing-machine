@@ -431,7 +431,7 @@ CLIPS = [
     ig("cmp_ig1", "WHICH BUSINESS COSTS THE LEAST TO START?", [
         {"type": "big", "big": "$300 to $5M", "sub": "7 businesses, ranked", "size": 130,
          "say": ["I broke down 7 businesses this week. Here they are, ranked by what it costs to get in."]},
-        {"type": "ladder", "label": "COST TO START (low end)", "rows": [
+        {"type": "ladder", "cap_y": 1520, "label": "COST TO START (low end)", "rows": [
             ["Vending machine", "$300 used"], ["ATM", "about $2K"], ["Laundromat (buy)", "$200K+"], ["Coffee shop", "$500K+"],
             ["Gym franchise", "$1.3M+"], ["Self-storage", "$2M+"], ["Car wash", "$5M+"]],
          "say": ["A used vending machine from $300. An ATM about $2,000. A laundromat from $200,000. A coffee shop from $500,000. A gym franchise from $1.3 million. Self-storage from $2 million. And an express car wash, $5 million and up."]},
@@ -443,7 +443,7 @@ CLIPS = [
     ig("cmp_ig2", "WHICH BUSINESS KEEPS THE MOST?", [
         {"type": "big", "big": "margins", "sub": "who keeps the most of each dollar?", "size": 150,
          "say": ["Which business keeps the most of every dollar? Here are the margins from this week."]},
-        {"type": "ladder", "label": "SHARE OF REVENUE KEPT", "col": "pos", "rows": [
+        {"type": "ladder", "cap_y": 1520, "label": "SHARE OF REVENUE KEPT", "col": "pos", "rows": [
             ["Self-storage (NOI)", "40-60%"], ["Car wash (store EBITDA)", "40-50%"], ["Laundromat (net)", "18-30%"],
             ["Coffee shop (net)", "15-25%"]],
          "say": ["Self-storage keeps 40 to 60%. Car washes, 40 to 50%. Laundromats, 18 to 30%. Coffee shops, 15 to 25%, and often less."]},
@@ -473,7 +473,7 @@ CLIPS = [
     tt("cmp_tt2", "WHICH BUSINESS BRINGS IN THE MOST?", [
         {"type": "big", "big": "$5K to $1.9M", "sub": "revenue a year, ranked", "size": 130,
          "say": ["From $5,000 a year to almost $2 million. Here is how much revenue each business from this week brings in."]},
-        {"type": "ladder", "label": "REVENUE PER YEAR (examples)", "col": "pos", "rows": [
+        {"type": "ladder", "cap_y": 1520, "label": "REVENUE PER YEAR (examples)", "col": "pos", "rows": [
             ["Vending machine", "about $3.7K"], ["ATM", "about $5.4K"], ["Laundromat", "$200-500K"], ["Coffee shop", "$513K"],
             ["Self-storage", "$576K"], ["Car wash", "$1.5M"], ["Gym franchise", "$1.9M"]],
          "say": ["One vending machine, about $3,700. One ATM, about $5,400. A laundromat, $200,000 to $500,000. The example coffee shop, $513,000. A 400-unit storage facility at full occupancy, $576,000. A car wash, $1.5 million. And a Planet Fitness, about $1.9 million."]},
