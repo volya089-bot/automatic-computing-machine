@@ -1,8 +1,1 @@
-ref_2T8JrUE_bz4.jpg https://i.ytimg.com/vi/2T8JrUE_bz4/hqdefault.jpg
-ref_nt2Zn2GftOQ.jpg https://i.ytimg.com/vi/nt2Zn2GftOQ/hqdefault.jpg
-ref_YDTDdDZVtfk.jpg https://i.ytimg.com/vi/YDTDdDZVtfk/hqdefault.jpg
-ref_LMGT7NErBL8.jpg https://i.ytimg.com/vi/LMGT7NErBL8/hqdefault.jpg
-ref_4nYkN0wTi2Q.jpg https://i.ytimg.com/vi/4nYkN0wTi2Q/hqdefault.jpg
-ref_2ppyMGoHsoc.jpg https://i.ytimg.com/vi/2ppyMGoHsoc/hqdefault.jpg
-ref_uQ_fQEBYTJ0.jpg https://i.ytimg.com/vi/uQ_fQEBYTJ0/hqdefault.jpg
-ref_aNghmPn-OGw.jpg https://i.ytimg.com/vi/aNghmPn-OGw/hqdefault.jpg
+thumbtest_buffet1.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/b7ab14f7-b0c0-4fb7-98f7-9ba07ba8fc63.jpg
