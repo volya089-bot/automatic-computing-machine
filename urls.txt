@@ -1,2 +1,8 @@
-lofi_3m.mp3 https://cdn.creativeclaw.co/u/3b883f5a/audio/6e63b971-5d3c-4cf0-b137-1629f3b56ded.mp3
-piano_3m.mp3 https://cdn.creativeclaw.co/u/3b883f5a/audio/c5da2299-ec98-4664-8940-76c08092b3f8.mp3
+ref_2T8JrUE_bz4.jpg https://i.ytimg.com/vi/2T8JrUE_bz4/hqdefault.jpg
+ref_nt2Zn2GftOQ.jpg https://i.ytimg.com/vi/nt2Zn2GftOQ/hqdefault.jpg
+ref_YDTDdDZVtfk.jpg https://i.ytimg.com/vi/YDTDdDZVtfk/hqdefault.jpg
+ref_LMGT7NErBL8.jpg https://i.ytimg.com/vi/LMGT7NErBL8/hqdefault.jpg
+ref_4nYkN0wTi2Q.jpg https://i.ytimg.com/vi/4nYkN0wTi2Q/hqdefault.jpg
+ref_2ppyMGoHsoc.jpg https://i.ytimg.com/vi/2ppyMGoHsoc/hqdefault.jpg
+ref_uQ_fQEBYTJ0.jpg https://i.ytimg.com/vi/uQ_fQEBYTJ0/hqdefault.jpg
+ref_aNghmPn-OGw.jpg https://i.ytimg.com/vi/aNghmPn-OGw/hqdefault.jpg
