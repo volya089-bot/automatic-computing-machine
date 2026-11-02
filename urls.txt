@@ -1,11 +1,3 @@
-nt_buffet.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/2246b6c9-663b-4637-a20b-01cdce1a4008.jpg
-nt_gasstation.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/df301204-f138-42f9-a0b4-838740bc34b7.jpg
-nt_nightclub.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/668e431d-e824-4884-ac65-39188324ce32.jpg
-nt_hotel.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/48333d89-2310-463b-b28a-d7f5c5ee5975.jpg
-nt_drivethru.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/9921cbfe-5209-471e-968c-aa3738d65e72.jpg
-nt_canteen.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/693b12cc-4de2-4032-9a00-581cee1314c8.jpg
-nt_parking.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/25e07fab-1d2a-433a-b81b-fa49a327a596.jpg
-nt_restaurant.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/10e3e950-484b-49b5-8140-421f162f04ad.jpg
-nt_coffee.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/19afc4b4-367f-412e-818a-8f1cb59e8a6b.jpg
-nt_casino.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/ec6314af-094d-4c8e-8e71-3e6b8a47cd1a.jpg
-nt_airport.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/fd8b0eff-39e7-4aef-bd13-16d9b625d41c.jpg
+nt_cardealer.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/f67f364f-9966-44c1-8306-cc0e7d2ca0f6.jpg
+nt_mattress.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/e57b2314-191b-4e82-97ba-4c6e8fd51909.jpg
+nt_dollarstore.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/71992cf4-1e5d-40ed-9c26-f9ad75271c47.jpg
