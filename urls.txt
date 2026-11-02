@@ -1,7 +1,2 @@
-t3_cardealer.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/2ee70d1a-b156-4b11-b1c6-fae3e6b1de9b.jpg
-t3_mattress.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/617090e7-69bf-4cda-8d94-c454ff3b36d2.jpg
-t3_dollarstore.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/b1ce6c4c-1b01-4011-bdde-9be59525e051.jpg
-t3_pawnshop.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/e844eb72-32e6-418b-8fda-1ff586781532.jpg
-t3_storage.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/ebbd2624-a280-475a-9c07-829106cae6bc.jpg
-t3_bakery.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/1839add5-ca4b-476a-866b-ca5538ecd9dc.jpg
-t3_laundromat.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/ff3ee21e-e03d-4f9f-b7c1-e242c2b0ab0e.jpg
+t3_youtube.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/301dc61b-3303-4b3f-8446-03326ea429fc.jpg
+t3_savings.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/369173ad-ec25-44ce-8c5b-5f71ae4837b5.jpg
