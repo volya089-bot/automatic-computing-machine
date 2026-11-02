@@ -1,4 +1,8 @@
-th_pawn.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/d14918e4-0f1a-4c7a-9bab-24a3c2887244.jpg
-th_storage.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/3f7d993c-6f45-4c98-8b0a-32637e783131.jpg
-th_bakery.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/38cfe8c2-f9f2-4f88-800b-54cb40dffc43.jpg
-th_laundromat.jpg https://cdn.creativeclaw.co/u/3b883f5a/images/b9aec93b-1847-4b21-b078-21ac10bfd965.jpg
+cmp_wfj8Poa5ZMo.jpg https://img.youtube.com/vi/wfj8Poa5ZMo/hqdefault.jpg
+cmp_b7J6XExozPU.jpg https://img.youtube.com/vi/b7J6XExozPU/hqdefault.jpg
+cmp_tHLRB5wYEe8.jpg https://img.youtube.com/vi/tHLRB5wYEe8/hqdefault.jpg
+cmp_kZW4JQj_igg.jpg https://img.youtube.com/vi/kZW4JQj_igg/hqdefault.jpg
+cmp_L9wAGEI2-ew.jpg https://img.youtube.com/vi/L9wAGEI2-ew/hqdefault.jpg
+cmp_P0jP5zq-biI.jpg https://img.youtube.com/vi/P0jP5zq-biI/hqdefault.jpg
+cmp_54CZ0XMWA8g.jpg https://img.youtube.com/vi/54CZ0XMWA8g/hqdefault.jpg
+cmp_itAEpYRlx5c.jpg https://img.youtube.com/vi/itAEpYRlx5c/hqdefault.jpg
