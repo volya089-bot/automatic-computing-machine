@@ -51,3 +51,15 @@ Lower priority: industries viewers never touch as customers (casinos, airports) 
 - Line 1–2 = the hook question + main keyword (this is what search shows). Ko-fi link goes **below** the chapters.
 - Keep: chapters, sources, disclaimer ("educational, not financial advice"), AI disclosure, comment question.
 - Shorts captions: one-line hook + "For education only, not financial advice. Made with AI."
+
+## 3c. One post per network (since 4 Nov 2026)
+Never schedule one Metricool post to several networks. Each network gets its own post.
+- **YouTube Shorts**: the v5 short (25-40 s, receipt, hero), 13:00 / 16:00 / 19:00 Rome, SEO title + tags.
+- **TikTok**: same v5 file, own post at the same time; caption = hook line + one comment question +
+  "Educational, not financial advice. Made with AI." + 2 topic tags + #businesstok #learnontiktok #ownersmath.
+- **Instagram Reels**: a separate IG cut (`tools/make_reel_ig.py`, specs `ig_v1/q*.json`): 1080x1920, 30 fps,
+  15-19 s, 0-1.5 s = only the shock number on black, cut/zoom every ~1.5 s, big yellow (#FFD60A) numbers,
+  white 2-3 word captions, last line "Save this, so you don't forget the numbers", own cover (yellow on black).
+  ONE reel a day at 19:30 Rome (20:30 Kyiv). Caption: 2 lines + yes/no question + disclaimer + 5 niche tags
+  (no #money #business). isAiGenerated = true. No YouTube elements ("watch till the end", "full video on the channel").
+- Metricool is on Starter (paid): the free plan allows only 20 publications/month and counts each network separately.
