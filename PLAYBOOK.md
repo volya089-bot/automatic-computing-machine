@@ -30,6 +30,15 @@ Tool: `razgon-2d-studio/tools/make_short3.py` (spec examples in `razgon-2d-studi
 - End on the payoff or a line that loops back to the first line. Never "watch the full video to find out".
 - Every number must come from the long video's sourced script.
 
+## 3b. Our hero and our look (not the competitors')
+- The hero is ours: black round head, **green hoodie, green visor, pencil behind the ear, calculator badge**
+  (`/home/claude/brand/hero0-3.png`, sheet `youtube/hero_sheet.jpg`). Same hero in videos, shorts and thumbnails.
+- He is cheerful and reacts: points at the hook → is shocked by the cost → grins with cash at the TOTAL.
+- Bright, warm look: shorts sit on the warm yellow→orange→teal gradient; footage gets a midtone lift
+  (`curves 0.25→0.33, 0.6→0.75`, saturation ×1.3–1.4). No dark, gloomy frames.
+- New long videos: render in a brighter studio style (golden / storybook), not the dark "dusk" grade,
+  and give the hero more screen time with happy/funny reactions.
+
 ## 4. Topics — the customer's world first
 Prioritise businesses the viewer uses weekly (they already have an opinion and a receipt):
 grocery stores, vending machines, movie theaters, gyms, phone carriers, pharmacies, dentists, vet clinics,
