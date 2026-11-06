@@ -17,6 +17,19 @@ look and sound like nobody else. Follow them for every new video.
   it will take and lists the answers. Removed from every scheduled video on 4 Nov 2026 (`tools/cut_agenda.py`).
 - No "So, you want to own a ___". Open the body with the customer's first moment (the receipt, the door, the pump).
 - Re-hook every ~2–3 min with a new open question or number.
+- **Retention data (6 Nov 2026, YouTube Analytics):** long videos lose 50–70% of viewers in the first 10–30 s
+  (gym: 86% → 33% by 0:24; ghost city: 100% → 31% by 0:28), then the curve goes flat. Second dip at ~2:40–4:00.
+  Shorts hold 70–85%, with the steepest drop after ~45 s.
+- So: the first 30 s are the whole game. Rules:
+  1. The question or promise is spoken by 0:10, not 0:40. No atmospheric scene-setting before it.
+  2. No empty set / B-roll and no stick figures in the cold open — only the hero, numbers, and the question
+     (`_tail.py` uses COLD_END: only hero-face fillers before the title card).
+  3. No `bars='scope'` on the first shot (letterbox cuts the top label).
+  4. Every data panel shows something within 1 s of its shot start (anchor it on the word, not before).
+  5. Open loop on screen 0:01 → title card: a bottom chip "STAY FOR #N · <payoff>" (`tools/fix_hook.sh`).
+  6. At ~40% of runtime (the start of a middle chapter): chip "COMING UP · <later payoff>", 6 s.
+- Shorts: 25–40 s (nothing past 45 s). Description line 1 = "▶ Full video: <link>" once the long video is live;
+  also set YouTube Studio → Related video.
 - Vary the back half: "Two owners" and "5 rules to survive" must not appear in every video. Rotate endings
   (a case study, a viewer-math challenge, a "what we would do with $X").
 - Keep: real sources named on screen, "illustrative" labels, the hero character, Owner's Math receipts.
